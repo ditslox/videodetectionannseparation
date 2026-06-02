@@ -1,0 +1,1631 @@
+{
+  "video": "spm2",
+  "language": "en",
+  "language_probability": 0.99267578125,
+  "full_text": " Previously on Peter's screws, the pooch, I tell you to stay away from this.  Instead, you hacked a multi-million-dollar suit so you could sneak around behind my back doing the one thing I told you not to do.  Is everyone okay?  No thanks to you.  No thanks to me?  Those weapons you were out there and I tried to tell you I got it, but you didn't listen.  None of this would have happened if you had just listened to me!  If you even cared, you'd actually be here.  I did listen, kid.  Who do you think called the FBI, huh?  You know that I was the only one who believed in you.  Everyone else said I was crazy to recruit a 14-year-old kid.  A 50?  No, this is where you zip it!  All right, the adult is talking.  What if somebody had died tonight?  Different story, right?  Because that's on you.  And if you die, I feel like that's on me.  I don't need that on my conscience.  Yes, sir. I'm sorry.  I'm sorry.  I don't understand.  I just want to be like you.  And I wanted you to be better.  Okay, it's not working out. I'm gonna need a suit back.  For how long?  For ever.  Yeah.  No, no, no, please, please, please, please, please.  Let's have it.  If you don't understand the things this is all I have,  I'm nothing without this suit.  If you're nothing without this suit, then you shouldn't have it.  Okay?  I'm kind of selling my dad.  But I have a name.  We're both.  Okay, we'll sort that out.",
+  "segments": [
+    {
+      "start": 7.7,
+      "end": 11.44,
+      "text": "Previously on Peter's screws, the pooch, I tell you to stay away from this.",
+      "words": [
+        {
+          "word": " Previously",
+          "start": 7.7,
+          "end": 8.34
+        },
+        {
+          "word": " on",
+          "start": 8.34,
+          "end": 8.68
+        },
+        {
+          "word": " Peter's",
+          "start": 8.68,
+          "end": 9.16
+        },
+        {
+          "word": " screws,",
+          "start": 9.16,
+          "end": 9.42
+        },
+        {
+          "word": " the",
+          "start": 9.66,
+          "end": 9.76
+        },
+        {
+          "word": " pooch,",
+          "start": 9.76,
+          "end": 10.12
+        },
+        {
+          "word": " I",
+          "start": 10.12,
+          "end": 10.22
+        },
+        {
+          "word": " tell",
+          "start": 10.22,
+          "end": 10.36
+        },
+        {
+          "word": " you",
+          "start": 10.36,
+          "end": 10.46
+        },
+        {
+          "word": " to",
+          "start": 10.46,
+          "end": 10.56
+        },
+        {
+          "word": " stay",
+          "start": 10.56,
+          "end": 10.68
+        },
+        {
+          "word": " away",
+          "start": 10.68,
+          "end": 10.88
+        },
+        {
+          "word": " from",
+          "start": 10.88,
+          "end": 11.22
+        },
+        {
+          "word": " this.",
+          "start": 11.22,
+          "end": 11.44
+        }
+      ]
+    },
+    {
+      "start": 11.88,
+      "end": 19.74,
+      "text": "Instead, you hacked a multi-million-dollar suit so you could sneak around behind my back doing the one thing I told you not to do.",
+      "words": [
+        {
+          "word": " Instead,",
+          "start": 11.88,
+          "end": 12.32
+        },
+        {
+          "word": " you",
+          "start": 12.68,
+          "end": 12.98
+        },
+        {
+          "word": " hacked",
+          "start": 12.98,
+          "end": 13.38
+        },
+        {
+          "word": " a",
+          "start": 13.38,
+          "end": 13.6
+        },
+        {
+          "word": " multi",
+          "start": 13.6,
+          "end": 13.86
+        },
+        {
+          "word": "-million",
+          "start": 13.86,
+          "end": 14.08
+        },
+        {
+          "word": "-dollar",
+          "start": 14.08,
+          "end": 14.4
+        },
+        {
+          "word": " suit",
+          "start": 14.4,
+          "end": 14.72
+        },
+        {
+          "word": " so",
+          "start": 14.72,
+          "end": 14.94
+        },
+        {
+          "word": " you",
+          "start": 14.94,
+          "end": 15.06
+        },
+        {
+          "word": " could",
+          "start": 15.06,
+          "end": 15.18
+        },
+        {
+          "word": " sneak",
+          "start": 15.18,
+          "end": 15.52
+        },
+        {
+          "word": " around",
+          "start": 15.52,
+          "end": 15.86
+        },
+        {
+          "word": " behind",
+          "start": 15.86,
+          "end": 16.16
+        },
+        {
+          "word": " my",
+          "start": 16.16,
+          "end": 16.38
+        },
+        {
+          "word": " back",
+          "start": 16.38,
+          "end": 16.64
+        },
+        {
+          "word": " doing",
+          "start": 16.64,
+          "end": 16.86
+        },
+        {
+          "word": " the",
+          "start": 16.86,
+          "end": 17.06
+        },
+        {
+          "word": " one",
+          "start": 17.06,
+          "end": 17.46
+        },
+        {
+          "word": " thing",
+          "start": 17.46,
+          "end": 17.92
+        },
+        {
+          "word": " I",
+          "start": 17.92,
+          "end": 18.38
+        },
+        {
+          "word": " told",
+          "start": 18.38,
+          "end": 18.72
+        },
+        {
+          "word": " you",
+          "start": 18.72,
+          "end": 18.98
+        },
+        {
+          "word": " not",
+          "start": 18.98,
+          "end": 19.2
+        },
+        {
+          "word": " to",
+          "start": 19.2,
+          "end": 19.5
+        },
+        {
+          "word": " do.",
+          "start": 19.5,
+          "end": 19.74
+        }
+      ]
+    },
+    {
+      "start": 20.22,
+      "end": 20.92,
+      "text": "Is everyone okay?",
+      "words": [
+        {
+          "word": " Is",
+          "start": 20.22,
+          "end": 20.34
+        },
+        {
+          "word": " everyone",
+          "start": 20.34,
+          "end": 20.52
+        },
+        {
+          "word": " okay?",
+          "start": 20.52,
+          "end": 20.92
+        }
+      ]
+    },
+    {
+      "start": 22.01,
+      "end": 23.39,
+      "text": "No thanks to you.",
+      "words": [
+        {
+          "word": " No",
+          "start": 22.01,
+          "end": 22.27
+        },
+        {
+          "word": " thanks",
+          "start": 22.27,
+          "end": 22.67
+        },
+        {
+          "word": " to",
+          "start": 22.67,
+          "end": 23.13
+        },
+        {
+          "word": " you.",
+          "start": 23.13,
+          "end": 23.39
+        }
+      ]
+    },
+    {
+      "start": 25.31,
+      "end": 26.15,
+      "text": "No thanks to me?",
+      "words": [
+        {
+          "word": " No",
+          "start": 25.31,
+          "end": 25.53
+        },
+        {
+          "word": " thanks",
+          "start": 25.53,
+          "end": 25.81
+        },
+        {
+          "word": " to",
+          "start": 25.81,
+          "end": 25.99
+        },
+        {
+          "word": " me?",
+          "start": 25.99,
+          "end": 26.15
+        }
+      ]
+    },
+    {
+      "start": 29.12,
+      "end": 32.52,
+      "text": "Those weapons you were out there and I tried to tell you I got it, but you didn't listen.",
+      "words": [
+        {
+          "word": " Those",
+          "start": 29.12,
+          "end": 29.3
+        },
+        {
+          "word": " weapons",
+          "start": 29.3,
+          "end": 29.64
+        },
+        {
+          "word": " you",
+          "start": 29.64,
+          "end": 29.8
+        },
+        {
+          "word": " were",
+          "start": 29.8,
+          "end": 29.88
+        },
+        {
+          "word": " out",
+          "start": 29.88,
+          "end": 30.0
+        },
+        {
+          "word": " there",
+          "start": 30.0,
+          "end": 30.16
+        },
+        {
+          "word": " and",
+          "start": 30.16,
+          "end": 30.32
+        },
+        {
+          "word": " I",
+          "start": 30.32,
+          "end": 30.44
+        },
+        {
+          "word": " tried",
+          "start": 30.44,
+          "end": 30.78
+        },
+        {
+          "word": " to",
+          "start": 30.78,
+          "end": 30.9
+        },
+        {
+          "word": " tell",
+          "start": 30.9,
+          "end": 31.1
+        },
+        {
+          "word": " you",
+          "start": 31.1,
+          "end": 31.24
+        },
+        {
+          "word": " I",
+          "start": 31.24,
+          "end": 31.32
+        },
+        {
+          "word": " got",
+          "start": 31.32,
+          "end": 31.46
+        },
+        {
+          "word": " it,",
+          "start": 31.46,
+          "end": 31.58
+        },
+        {
+          "word": " but",
+          "start": 31.62,
+          "end": 31.68
+        },
+        {
+          "word": " you",
+          "start": 31.68,
+          "end": 31.82
+        },
+        {
+          "word": " didn't",
+          "start": 31.82,
+          "end": 32.12
+        },
+        {
+          "word": " listen.",
+          "start": 32.12,
+          "end": 32.52
+        }
+      ]
+    },
+    {
+      "start": 33.22,
+      "end": 35.68,
+      "text": "None of this would have happened if you had just listened to me!",
+      "words": [
+        {
+          "word": " None",
+          "start": 33.22,
+          "end": 33.44
+        },
+        {
+          "word": " of",
+          "start": 33.44,
+          "end": 33.54
+        },
+        {
+          "word": " this",
+          "start": 33.54,
+          "end": 33.66
+        },
+        {
+          "word": " would",
+          "start": 33.66,
+          "end": 33.82
+        },
+        {
+          "word": " have",
+          "start": 33.82,
+          "end": 33.96
+        },
+        {
+          "word": " happened",
+          "start": 33.96,
+          "end": 34.22
+        },
+        {
+          "word": " if",
+          "start": 34.22,
+          "end": 34.4
+        },
+        {
+          "word": " you",
+          "start": 34.4,
+          "end": 34.52
+        },
+        {
+          "word": " had",
+          "start": 34.52,
+          "end": 34.6
+        },
+        {
+          "word": " just",
+          "start": 34.6,
+          "end": 34.8
+        },
+        {
+          "word": " listened",
+          "start": 34.8,
+          "end": 35.26
+        },
+        {
+          "word": " to",
+          "start": 35.26,
+          "end": 35.52
+        },
+        {
+          "word": " me!",
+          "start": 35.52,
+          "end": 35.68
+        }
+      ]
+    },
+    {
+      "start": 36.65,
+      "end": 38.67,
+      "text": "If you even cared, you'd actually be here.",
+      "words": [
+        {
+          "word": " If",
+          "start": 36.65,
+          "end": 37.03
+        },
+        {
+          "word": " you",
+          "start": 37.03,
+          "end": 37.13
+        },
+        {
+          "word": " even",
+          "start": 37.13,
+          "end": 37.35
+        },
+        {
+          "word": " cared,",
+          "start": 37.35,
+          "end": 37.57
+        },
+        {
+          "word": " you'd",
+          "start": 37.65,
+          "end": 37.79
+        },
+        {
+          "word": " actually",
+          "start": 37.79,
+          "end": 38.05
+        },
+        {
+          "word": " be",
+          "start": 38.05,
+          "end": 38.39
+        },
+        {
+          "word": " here.",
+          "start": 38.39,
+          "end": 38.67
+        }
+      ]
+    },
+    {
+      "start": 43.2,
+      "end": 44.14,
+      "text": "I did listen, kid.",
+      "words": [
+        {
+          "word": " I",
+          "start": 43.2,
+          "end": 43.56
+        },
+        {
+          "word": " did",
+          "start": 43.56,
+          "end": 43.68
+        },
+        {
+          "word": " listen,",
+          "start": 43.68,
+          "end": 43.92
+        },
+        {
+          "word": " kid.",
+          "start": 44.06,
+          "end": 44.14
+        }
+      ]
+    },
+    {
+      "start": 44.62,
+      "end": 46.04,
+      "text": "Who do you think called the FBI, huh?",
+      "words": [
+        {
+          "word": " Who",
+          "start": 44.62,
+          "end": 44.7
+        },
+        {
+          "word": " do",
+          "start": 44.7,
+          "end": 44.76
+        },
+        {
+          "word": " you",
+          "start": 44.76,
+          "end": 44.84
+        },
+        {
+          "word": " think",
+          "start": 44.84,
+          "end": 45.04
+        },
+        {
+          "word": " called",
+          "start": 45.04,
+          "end": 45.28
+        },
+        {
+          "word": " the",
+          "start": 45.28,
+          "end": 45.42
+        },
+        {
+          "word": " FBI,",
+          "start": 45.42,
+          "end": 45.7
+        },
+        {
+          "word": " huh?",
+          "start": 45.96,
+          "end": 46.04
+        }
+      ]
+    },
+    {
+      "start": 46.94,
+      "end": 49.32,
+      "text": "You know that I was the only one who believed in you.",
+      "words": [
+        {
+          "word": " You",
+          "start": 46.94,
+          "end": 47.04
+        },
+        {
+          "word": " know",
+          "start": 47.04,
+          "end": 47.16
+        },
+        {
+          "word": " that",
+          "start": 47.16,
+          "end": 47.26
+        },
+        {
+          "word": " I",
+          "start": 47.26,
+          "end": 47.34
+        },
+        {
+          "word": " was",
+          "start": 47.34,
+          "end": 47.42
+        },
+        {
+          "word": " the",
+          "start": 47.42,
+          "end": 47.52
+        },
+        {
+          "word": " only",
+          "start": 47.52,
+          "end": 48.04
+        },
+        {
+          "word": " one",
+          "start": 48.04,
+          "end": 48.44
+        },
+        {
+          "word": " who",
+          "start": 48.44,
+          "end": 48.7
+        },
+        {
+          "word": " believed",
+          "start": 48.7,
+          "end": 48.96
+        },
+        {
+          "word": " in",
+          "start": 48.96,
+          "end": 49.22
+        },
+        {
+          "word": " you.",
+          "start": 49.22,
+          "end": 49.32
+        }
+      ]
+    },
+    {
+      "start": 49.48,
+      "end": 53.02,
+      "text": "Everyone else said I was crazy to recruit a 14-year-old kid.",
+      "words": [
+        {
+          "word": " Everyone",
+          "start": 49.48,
+          "end": 49.84
+        },
+        {
+          "word": " else",
+          "start": 49.84,
+          "end": 50.28
+        },
+        {
+          "word": " said",
+          "start": 50.28,
+          "end": 50.6
+        },
+        {
+          "word": " I",
+          "start": 50.6,
+          "end": 50.72
+        },
+        {
+          "word": " was",
+          "start": 50.72,
+          "end": 50.9
+        },
+        {
+          "word": " crazy",
+          "start": 50.9,
+          "end": 51.34
+        },
+        {
+          "word": " to",
+          "start": 51.34,
+          "end": 51.54
+        },
+        {
+          "word": " recruit",
+          "start": 51.54,
+          "end": 51.74
+        },
+        {
+          "word": " a",
+          "start": 51.74,
+          "end": 51.96
+        },
+        {
+          "word": " 14",
+          "start": 51.96,
+          "end": 52.38
+        },
+        {
+          "word": "-year",
+          "start": 52.38,
+          "end": 52.58
+        },
+        {
+          "word": "-old",
+          "start": 52.58,
+          "end": 52.7
+        },
+        {
+          "word": " kid.",
+          "start": 52.7,
+          "end": 53.02
+        }
+      ]
+    },
+    {
+      "start": 53.42,
+      "end": 53.78,
+      "text": "A 50?",
+      "words": [
+        {
+          "word": " A",
+          "start": 53.42,
+          "end": 53.5
+        },
+        {
+          "word": " 50?",
+          "start": 53.5,
+          "end": 53.78
+        }
+      ]
+    },
+    {
+      "start": 54.12,
+      "end": 55.14,
+      "text": "No, this is where you zip it!",
+      "words": [
+        {
+          "word": " No,",
+          "start": 54.12,
+          "end": 54.22
+        },
+        {
+          "word": " this",
+          "start": 54.34,
+          "end": 54.4
+        },
+        {
+          "word": " is",
+          "start": 54.4,
+          "end": 54.5
+        },
+        {
+          "word": " where",
+          "start": 54.5,
+          "end": 54.62
+        },
+        {
+          "word": " you",
+          "start": 54.62,
+          "end": 54.74
+        },
+        {
+          "word": " zip",
+          "start": 54.74,
+          "end": 54.92
+        },
+        {
+          "word": " it!",
+          "start": 54.92,
+          "end": 55.14
+        }
+      ]
+    },
+    {
+      "start": 55.38,
+      "end": 56.48,
+      "text": "All right, the adult is talking.",
+      "words": [
+        {
+          "word": " All",
+          "start": 55.38,
+          "end": 55.44
+        },
+        {
+          "word": " right,",
+          "start": 55.44,
+          "end": 55.56
+        },
+        {
+          "word": " the",
+          "start": 55.64,
+          "end": 55.72
+        },
+        {
+          "word": " adult",
+          "start": 55.72,
+          "end": 55.96
+        },
+        {
+          "word": " is",
+          "start": 55.96,
+          "end": 56.16
+        },
+        {
+          "word": " talking.",
+          "start": 56.16,
+          "end": 56.48
+        }
+      ]
+    },
+    {
+      "start": 56.92,
+      "end": 57.96,
+      "text": "What if somebody had died tonight?",
+      "words": [
+        {
+          "word": " What",
+          "start": 56.92,
+          "end": 57.04
+        },
+        {
+          "word": " if",
+          "start": 57.04,
+          "end": 57.12
+        },
+        {
+          "word": " somebody",
+          "start": 57.12,
+          "end": 57.36
+        },
+        {
+          "word": " had",
+          "start": 57.36,
+          "end": 57.5
+        },
+        {
+          "word": " died",
+          "start": 57.5,
+          "end": 57.66
+        },
+        {
+          "word": " tonight?",
+          "start": 57.66,
+          "end": 57.96
+        }
+      ]
+    },
+    {
+      "start": 58.59,
+      "end": 59.47,
+      "text": "Different story, right?",
+      "words": [
+        {
+          "word": " Different",
+          "start": 58.59,
+          "end": 58.85
+        },
+        {
+          "word": " story,",
+          "start": 58.85,
+          "end": 59.21
+        },
+        {
+          "word": " right?",
+          "start": 59.33,
+          "end": 59.47
+        }
+      ]
+    },
+    {
+      "start": 59.57,
+      "end": 60.51,
+      "text": "Because that's on you.",
+      "words": [
+        {
+          "word": " Because",
+          "start": 59.57,
+          "end": 59.65
+        },
+        {
+          "word": " that's",
+          "start": 59.65,
+          "end": 59.93
+        },
+        {
+          "word": " on",
+          "start": 59.93,
+          "end": 60.01
+        },
+        {
+          "word": " you.",
+          "start": 60.01,
+          "end": 60.51
+        }
+      ]
+    },
+    {
+      "start": 61.41,
+      "end": 64.3,
+      "text": "And if you die, I feel like that's on me.",
+      "words": [
+        {
+          "word": " And",
+          "start": 61.41,
+          "end": 61.69
+        },
+        {
+          "word": " if",
+          "start": 61.69,
+          "end": 61.81
+        },
+        {
+          "word": " you",
+          "start": 61.81,
+          "end": 61.93
+        },
+        {
+          "word": " die,",
+          "start": 61.93,
+          "end": 62.19
+        },
+        {
+          "word": " I",
+          "start": 63.16,
+          "end": 63.56
+        },
+        {
+          "word": " feel",
+          "start": 63.56,
+          "end": 63.66
+        },
+        {
+          "word": " like",
+          "start": 63.66,
+          "end": 63.78
+        },
+        {
+          "word": " that's",
+          "start": 63.78,
+          "end": 64.06
+        },
+        {
+          "word": " on",
+          "start": 64.06,
+          "end": 64.14
+        },
+        {
+          "word": " me.",
+          "start": 64.14,
+          "end": 64.3
+        }
+      ]
+    },
+    {
+      "start": 66.14,
+      "end": 67.08,
+      "text": "I don't need that on my conscience.",
+      "words": [
+        {
+          "word": " I",
+          "start": 66.14,
+          "end": 66.24
+        },
+        {
+          "word": " don't",
+          "start": 66.24,
+          "end": 66.32
+        },
+        {
+          "word": " need",
+          "start": 66.32,
+          "end": 66.44
+        },
+        {
+          "word": " that",
+          "start": 66.44,
+          "end": 66.56
+        },
+        {
+          "word": " on",
+          "start": 66.56,
+          "end": 66.66
+        },
+        {
+          "word": " my",
+          "start": 66.66,
+          "end": 66.78
+        },
+        {
+          "word": " conscience.",
+          "start": 66.78,
+          "end": 67.08
+        }
+      ]
+    },
+    {
+      "start": 67.4,
+      "end": 68.26,
+      "text": "Yes, sir. I'm sorry.",
+      "words": [
+        {
+          "word": " Yes,",
+          "start": 67.4,
+          "end": 67.56
+        },
+        {
+          "word": " sir.",
+          "start": 67.62,
+          "end": 67.7
+        },
+        {
+          "word": " I'm",
+          "start": 67.82,
+          "end": 68.1
+        },
+        {
+          "word": " sorry.",
+          "start": 68.1,
+          "end": 68.26
+        }
+      ]
+    },
+    {
+      "start": 68.54,
+      "end": 68.88,
+      "text": "I'm sorry.",
+      "words": [
+        {
+          "word": " I'm",
+          "start": 68.54,
+          "end": 68.64
+        },
+        {
+          "word": " sorry.",
+          "start": 68.64,
+          "end": 68.88
+        }
+      ]
+    },
+    {
+      "start": 69.58,
+      "end": 70.3,
+      "text": "I don't understand.",
+      "words": [
+        {
+          "word": " I",
+          "start": 69.58,
+          "end": 69.94
+        },
+        {
+          "word": " don't",
+          "start": 69.94,
+          "end": 70.06
+        },
+        {
+          "word": " understand.",
+          "start": 70.06,
+          "end": 70.3
+        }
+      ]
+    },
+    {
+      "start": 71.0,
+      "end": 72.72,
+      "text": "I just want to be like you.",
+      "words": [
+        {
+          "word": " I",
+          "start": 71.0,
+          "end": 71.34
+        },
+        {
+          "word": " just",
+          "start": 71.34,
+          "end": 71.46
+        },
+        {
+          "word": " want",
+          "start": 71.46,
+          "end": 72.04
+        },
+        {
+          "word": " to",
+          "start": 72.04,
+          "end": 72.12
+        },
+        {
+          "word": " be",
+          "start": 72.12,
+          "end": 72.36
+        },
+        {
+          "word": " like",
+          "start": 72.36,
+          "end": 72.52
+        },
+        {
+          "word": " you.",
+          "start": 72.52,
+          "end": 72.72
+        }
+      ]
+    },
+    {
+      "start": 73.16,
+      "end": 74.42,
+      "text": "And I wanted you to be better.",
+      "words": [
+        {
+          "word": " And",
+          "start": 73.16,
+          "end": 73.52
+        },
+        {
+          "word": " I",
+          "start": 73.52,
+          "end": 73.62
+        },
+        {
+          "word": " wanted",
+          "start": 73.62,
+          "end": 73.74
+        },
+        {
+          "word": " you",
+          "start": 73.74,
+          "end": 73.96
+        },
+        {
+          "word": " to",
+          "start": 73.96,
+          "end": 74.04
+        },
+        {
+          "word": " be",
+          "start": 74.04,
+          "end": 74.16
+        },
+        {
+          "word": " better.",
+          "start": 74.16,
+          "end": 74.42
+        }
+      ]
+    },
+    {
+      "start": 76.58,
+      "end": 78.5,
+      "text": "Okay, it's not working out. I'm gonna need a suit back.",
+      "words": [
+        {
+          "word": " Okay,",
+          "start": 76.58,
+          "end": 76.94
+        },
+        {
+          "word": " it's",
+          "start": 77.02,
+          "end": 77.08
+        },
+        {
+          "word": " not",
+          "start": 77.08,
+          "end": 77.16
+        },
+        {
+          "word": " working",
+          "start": 77.16,
+          "end": 77.38
+        },
+        {
+          "word": " out.",
+          "start": 77.38,
+          "end": 77.56
+        },
+        {
+          "word": " I'm",
+          "start": 77.74,
+          "end": 77.84
+        },
+        {
+          "word": " gonna",
+          "start": 77.84,
+          "end": 77.9
+        },
+        {
+          "word": " need",
+          "start": 77.9,
+          "end": 78.1
+        },
+        {
+          "word": " a",
+          "start": 78.1,
+          "end": 78.2
+        },
+        {
+          "word": " suit",
+          "start": 78.2,
+          "end": 78.28
+        },
+        {
+          "word": " back.",
+          "start": 78.28,
+          "end": 78.5
+        }
+      ]
+    },
+    {
+      "start": 78.86,
+      "end": 79.5,
+      "text": "For how long?",
+      "words": [
+        {
+          "word": " For",
+          "start": 78.86,
+          "end": 79.04
+        },
+        {
+          "word": " how",
+          "start": 79.04,
+          "end": 79.2
+        },
+        {
+          "word": " long?",
+          "start": 79.2,
+          "end": 79.5
+        }
+      ]
+    },
+    {
+      "start": 80.48,
+      "end": 80.88,
+      "text": "For ever.",
+      "words": [
+        {
+          "word": " For",
+          "start": 80.48,
+          "end": 80.68
+        },
+        {
+          "word": " ever.",
+          "start": 80.68,
+          "end": 80.88
+        }
+      ]
+    },
+    {
+      "start": 81.5,
+      "end": 81.64,
+      "text": "Yeah.",
+      "words": [
+        {
+          "word": " Yeah.",
+          "start": 81.5,
+          "end": 81.64
+        }
+      ]
+    },
+    {
+      "start": 82.0,
+      "end": 83.66,
+      "text": "No, no, no, please, please, please, please, please.",
+      "words": [
+        {
+          "word": " No,",
+          "start": 82.0,
+          "end": 82.18
+        },
+        {
+          "word": " no,",
+          "start": 82.48,
+          "end": 82.52
+        },
+        {
+          "word": " no,",
+          "start": 82.56,
+          "end": 82.64
+        },
+        {
+          "word": " please,",
+          "start": 82.82,
+          "end": 82.92
+        },
+        {
+          "word": " please,",
+          "start": 83.08,
+          "end": 83.26
+        },
+        {
+          "word": " please,",
+          "start": 83.36,
+          "end": 83.52
+        },
+        {
+          "word": " please,",
+          "start": 83.62,
+          "end": 83.62
+        },
+        {
+          "word": " please.",
+          "start": 83.62,
+          "end": 83.66
+        }
+      ]
+    },
+    {
+      "start": 83.66,
+      "end": 84.12,
+      "text": "Let's have it.",
+      "words": [
+        {
+          "word": " Let's",
+          "start": 83.66,
+          "end": 83.86
+        },
+        {
+          "word": " have",
+          "start": 83.86,
+          "end": 83.96
+        },
+        {
+          "word": " it.",
+          "start": 83.96,
+          "end": 84.12
+        }
+      ]
+    },
+    {
+      "start": 84.12,
+      "end": 85.78,
+      "text": "If you don't understand the things this is all I have,",
+      "words": [
+        {
+          "word": " If",
+          "start": 84.12,
+          "end": 84.12
+        },
+        {
+          "word": " you",
+          "start": 84.12,
+          "end": 84.12
+        },
+        {
+          "word": " don't",
+          "start": 84.12,
+          "end": 84.22
+        },
+        {
+          "word": " understand",
+          "start": 84.22,
+          "end": 84.6
+        },
+        {
+          "word": " the",
+          "start": 84.6,
+          "end": 84.8
+        },
+        {
+          "word": " things",
+          "start": 84.8,
+          "end": 84.96
+        },
+        {
+          "word": " this",
+          "start": 84.96,
+          "end": 85.1
+        },
+        {
+          "word": " is",
+          "start": 85.1,
+          "end": 85.2
+        },
+        {
+          "word": " all",
+          "start": 85.2,
+          "end": 85.4
+        },
+        {
+          "word": " I",
+          "start": 85.4,
+          "end": 85.56
+        },
+        {
+          "word": " have,",
+          "start": 85.56,
+          "end": 85.78
+        }
+      ]
+    },
+    {
+      "start": 85.88,
+      "end": 86.9,
+      "text": "I'm nothing without this suit.",
+      "words": [
+        {
+          "word": " I'm",
+          "start": 85.88,
+          "end": 85.98
+        },
+        {
+          "word": " nothing",
+          "start": 85.98,
+          "end": 86.2
+        },
+        {
+          "word": " without",
+          "start": 86.2,
+          "end": 86.44
+        },
+        {
+          "word": " this",
+          "start": 86.44,
+          "end": 86.64
+        },
+        {
+          "word": " suit.",
+          "start": 86.64,
+          "end": 86.9
+        }
+      ]
+    },
+    {
+      "start": 87.82,
+      "end": 90.12,
+      "text": "If you're nothing without this suit, then you shouldn't have it.",
+      "words": [
+        {
+          "word": " If",
+          "start": 87.82,
+          "end": 88.1
+        },
+        {
+          "word": " you're",
+          "start": 88.1,
+          "end": 88.2
+        },
+        {
+          "word": " nothing",
+          "start": 88.2,
+          "end": 88.38
+        },
+        {
+          "word": " without",
+          "start": 88.38,
+          "end": 88.62
+        },
+        {
+          "word": " this",
+          "start": 88.62,
+          "end": 88.86
+        },
+        {
+          "word": " suit,",
+          "start": 88.86,
+          "end": 89.1
+        },
+        {
+          "word": " then",
+          "start": 89.36,
+          "end": 89.44
+        },
+        {
+          "word": " you",
+          "start": 89.44,
+          "end": 89.56
+        },
+        {
+          "word": " shouldn't",
+          "start": 89.56,
+          "end": 89.82
+        },
+        {
+          "word": " have",
+          "start": 89.82,
+          "end": 90.0
+        },
+        {
+          "word": " it.",
+          "start": 90.0,
+          "end": 90.12
+        }
+      ]
+    },
+    {
+      "start": 90.4,
+      "end": 90.64,
+      "text": "Okay?",
+      "words": [
+        {
+          "word": " Okay?",
+          "start": 90.4,
+          "end": 90.64
+        }
+      ]
+    },
+    {
+      "start": 91.91,
+      "end": 92.79,
+      "text": "I'm kind of selling my dad.",
+      "words": [
+        {
+          "word": " I'm",
+          "start": 91.91,
+          "end": 92.11
+        },
+        {
+          "word": " kind",
+          "start": 92.11,
+          "end": 92.13
+        },
+        {
+          "word": " of",
+          "start": 92.13,
+          "end": 92.25
+        },
+        {
+          "word": " selling",
+          "start": 92.25,
+          "end": 92.39
+        },
+        {
+          "word": " my",
+          "start": 92.39,
+          "end": 92.61
+        },
+        {
+          "word": " dad.",
+          "start": 92.61,
+          "end": 92.79
+        }
+      ]
+    },
+    {
+      "start": 93.17,
+      "end": 96.76,
+      "text": "But I have a name.",
+      "words": [
+        {
+          "word": " But",
+          "start": 93.17,
+          "end": 93.31
+        },
+        {
+          "word": " I",
+          "start": 96.46,
+          "end": 96.52
+        },
+        {
+          "word": " have",
+          "start": 96.52,
+          "end": 96.62
+        },
+        {
+          "word": " a",
+          "start": 96.62,
+          "end": 96.66
+        },
+        {
+          "word": " name.",
+          "start": 96.66,
+          "end": 96.76
+        }
+      ]
+    },
+    {
+      "start": 96.98,
+      "end": 97.16,
+      "text": "We're both.",
+      "words": [
+        {
+          "word": " We're",
+          "start": 96.98,
+          "end": 97.1
+        },
+        {
+          "word": " both.",
+          "start": 97.1,
+          "end": 97.16
+        }
+      ]
+    },
+    {
+      "start": 98.55,
+      "end": 99.45,
+      "text": "Okay, we'll sort that out.",
+      "words": [
+        {
+          "word": " Okay,",
+          "start": 98.55,
+          "end": 98.91
+        },
+        {
+          "word": " we'll",
+          "start": 98.97,
+          "end": 99.03
+        },
+        {
+          "word": " sort",
+          "start": 99.03,
+          "end": 99.17
+        },
+        {
+          "word": " that",
+          "start": 99.17,
+          "end": 99.35
+        },
+        {
+          "word": " out.",
+          "start": 99.35,
+          "end": 99.45
+        }
+      ]
+    }
+  ]
+}

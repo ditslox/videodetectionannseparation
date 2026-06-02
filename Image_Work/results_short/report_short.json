@@ -1,0 +1,2208 @@
+{
+  "video": "short",
+  "metadata": {
+    "duration_sec": 21.13,
+    "fps": 30.0,
+    "total_frames": 634,
+    "resolution": "360x640"
+  },
+  "models": {
+    "YOLOv11": [
+      {
+        "frame": "frame_000001.jpg",
+        "objects": [
+          "person"
+        ]
+      },
+      {
+        "frame": "frame_000002.jpg",
+        "objects": [
+          "person"
+        ]
+      },
+      {
+        "frame": "frame_000003.jpg",
+        "objects": [
+          "person"
+        ]
+      },
+      {
+        "frame": "frame_000004.jpg",
+        "objects": [
+          "person"
+        ]
+      },
+      {
+        "frame": "frame_000005.jpg",
+        "objects": [
+          "person"
+        ]
+      },
+      {
+        "frame": "frame_000006.jpg",
+        "objects": [
+          "person"
+        ]
+      },
+      {
+        "frame": "frame_000007.jpg",
+        "objects": [
+          "person"
+        ]
+      },
+      {
+        "frame": "frame_000008.jpg",
+        "objects": [
+          "person"
+        ]
+      },
+      {
+        "frame": "frame_000009.jpg",
+        "objects": [
+          "person"
+        ]
+      },
+      {
+        "frame": "frame_000010.jpg",
+        "objects": [
+          "person"
+        ]
+      },
+      {
+        "frame": "frame_000011.jpg",
+        "objects": [
+          "person"
+        ]
+      },
+      {
+        "frame": "frame_000012.jpg",
+        "objects": [
+          "person"
+        ]
+      },
+      {
+        "frame": "frame_000013.jpg",
+        "objects": [
+          "person"
+        ]
+      },
+      {
+        "frame": "frame_000014.jpg",
+        "objects": [
+          "person"
+        ]
+      },
+      {
+        "frame": "frame_000015.jpg",
+        "objects": [
+          "person"
+        ]
+      },
+      {
+        "frame": "frame_000016.jpg",
+        "objects": [
+          "person"
+        ]
+      },
+      {
+        "frame": "frame_000017.jpg",
+        "objects": [
+          "person"
+        ]
+      },
+      {
+        "frame": "frame_000018.jpg",
+        "objects": [
+          "person"
+        ]
+      },
+      {
+        "frame": "frame_000019.jpg",
+        "objects": [
+          "person"
+        ]
+      },
+      {
+        "frame": "frame_000020.jpg",
+        "objects": [
+          "person"
+        ]
+      },
+      {
+        "frame": "frame_000021.jpg",
+        "objects": [
+          "person"
+        ]
+      },
+      {
+        "frame": "frame_000022.jpg",
+        "objects": [
+          "person"
+        ]
+      },
+      {
+        "frame": "frame_000023.jpg",
+        "objects": [
+          "person"
+        ]
+      },
+      {
+        "frame": "frame_000024.jpg",
+        "objects": [
+          "person"
+        ]
+      },
+      {
+        "frame": "frame_000025.jpg",
+        "objects": [
+          "person"
+        ]
+      },
+      {
+        "frame": "frame_000026.jpg",
+        "objects": [
+          "person"
+        ]
+      },
+      {
+        "frame": "frame_000027.jpg",
+        "objects": [
+          "person"
+        ]
+      },
+      {
+        "frame": "frame_000028.jpg",
+        "objects": [
+          "person"
+        ]
+      },
+      {
+        "frame": "frame_000029.jpg",
+        "objects": [
+          "person"
+        ]
+      },
+      {
+        "frame": "frame_000030.jpg",
+        "objects": [
+          "person"
+        ]
+      },
+      {
+        "frame": "frame_000031.jpg",
+        "objects": [
+          "person"
+        ]
+      },
+      {
+        "frame": "frame_000032.jpg",
+        "objects": [
+          "person"
+        ]
+      },
+      {
+        "frame": "frame_000033.jpg",
+        "objects": [
+          "person"
+        ]
+      },
+      {
+        "frame": "frame_000034.jpg",
+        "objects": [
+          "person"
+        ]
+      },
+      {
+        "frame": "frame_000035.jpg",
+        "objects": [
+          "person"
+        ]
+      },
+      {
+        "frame": "frame_000036.jpg",
+        "objects": [
+          "person"
+        ]
+      },
+      {
+        "frame": "frame_000037.jpg",
+        "objects": [
+          "person"
+        ]
+      },
+      {
+        "frame": "frame_000038.jpg",
+        "objects": [
+          "person"
+        ]
+      },
+      {
+        "frame": "frame_000039.jpg",
+        "objects": [
+          "person"
+        ]
+      },
+      {
+        "frame": "frame_000040.jpg",
+        "objects": [
+          "person"
+        ]
+      },
+      {
+        "frame": "frame_000041.jpg",
+        "objects": [
+          "person"
+        ]
+      },
+      {
+        "frame": "frame_000042.jpg",
+        "objects": [
+          "person"
+        ]
+      }
+    ],
+    "Faster R-CNN": [
+      {
+        "frame": "frame_000001.jpg",
+        "objects": [
+          "person"
+        ]
+      },
+      {
+        "frame": "frame_000002.jpg",
+        "objects": [
+          "person"
+        ]
+      },
+      {
+        "frame": "frame_000003.jpg",
+        "objects": [
+          "person"
+        ]
+      },
+      {
+        "frame": "frame_000004.jpg",
+        "objects": [
+          "person"
+        ]
+      },
+      {
+        "frame": "frame_000005.jpg",
+        "objects": [
+          "person"
+        ]
+      },
+      {
+        "frame": "frame_000006.jpg",
+        "objects": [
+          "person"
+        ]
+      },
+      {
+        "frame": "frame_000007.jpg",
+        "objects": [
+          "person"
+        ]
+      },
+      {
+        "frame": "frame_000008.jpg",
+        "objects": [
+          "person"
+        ]
+      },
+      {
+        "frame": "frame_000009.jpg",
+        "objects": [
+          "person"
+        ]
+      },
+      {
+        "frame": "frame_000010.jpg",
+        "objects": [
+          "person"
+        ]
+      },
+      {
+        "frame": "frame_000011.jpg",
+        "objects": [
+          "person"
+        ]
+      },
+      {
+        "frame": "frame_000012.jpg",
+        "objects": [
+          "person"
+        ]
+      },
+      {
+        "frame": "frame_000013.jpg",
+        "objects": [
+          "person"
+        ]
+      },
+      {
+        "frame": "frame_000014.jpg",
+        "objects": [
+          "person"
+        ]
+      },
+      {
+        "frame": "frame_000015.jpg",
+        "objects": [
+          "person"
+        ]
+      },
+      {
+        "frame": "frame_000016.jpg",
+        "objects": [
+          "person"
+        ]
+      },
+      {
+        "frame": "frame_000017.jpg",
+        "objects": [
+          "person"
+        ]
+      },
+      {
+        "frame": "frame_000018.jpg",
+        "objects": [
+          "person"
+        ]
+      },
+      {
+        "frame": "frame_000019.jpg",
+        "objects": [
+          "person"
+        ]
+      },
+      {
+        "frame": "frame_000020.jpg",
+        "objects": [
+          "person"
+        ]
+      },
+      {
+        "frame": "frame_000021.jpg",
+        "objects": [
+          "person"
+        ]
+      },
+      {
+        "frame": "frame_000022.jpg",
+        "objects": [
+          "person"
+        ]
+      },
+      {
+        "frame": "frame_000023.jpg",
+        "objects": [
+          "person"
+        ]
+      },
+      {
+        "frame": "frame_000024.jpg",
+        "objects": [
+          "person"
+        ]
+      },
+      {
+        "frame": "frame_000025.jpg",
+        "objects": [
+          "person"
+        ]
+      },
+      {
+        "frame": "frame_000026.jpg",
+        "objects": [
+          "person"
+        ]
+      },
+      {
+        "frame": "frame_000027.jpg",
+        "objects": [
+          "person"
+        ]
+      },
+      {
+        "frame": "frame_000028.jpg",
+        "objects": [
+          "person"
+        ]
+      },
+      {
+        "frame": "frame_000029.jpg",
+        "objects": [
+          "person"
+        ]
+      },
+      {
+        "frame": "frame_000030.jpg",
+        "objects": [
+          "person"
+        ]
+      },
+      {
+        "frame": "frame_000031.jpg",
+        "objects": [
+          "person"
+        ]
+      },
+      {
+        "frame": "frame_000032.jpg",
+        "objects": [
+          "person"
+        ]
+      },
+      {
+        "frame": "frame_000033.jpg",
+        "objects": [
+          "person"
+        ]
+      },
+      {
+        "frame": "frame_000034.jpg",
+        "objects": [
+          "person"
+        ]
+      },
+      {
+        "frame": "frame_000035.jpg",
+        "objects": [
+          "person"
+        ]
+      },
+      {
+        "frame": "frame_000036.jpg",
+        "objects": [
+          "person"
+        ]
+      },
+      {
+        "frame": "frame_000037.jpg",
+        "objects": [
+          "person"
+        ]
+      },
+      {
+        "frame": "frame_000038.jpg",
+        "objects": [
+          "person"
+        ]
+      },
+      {
+        "frame": "frame_000039.jpg",
+        "objects": [
+          "person"
+        ]
+      },
+      {
+        "frame": "frame_000040.jpg",
+        "objects": [
+          "person"
+        ]
+      },
+      {
+        "frame": "frame_000041.jpg",
+        "objects": [
+          "person"
+        ]
+      },
+      {
+        "frame": "frame_000042.jpg",
+        "objects": [
+          "person"
+        ]
+      }
+    ],
+    "Qwen+YOLO": [
+      {
+        "frame": "frame_000000.jpg",
+        "objects": [
+          "car",
+          "камера",
+          "людей",
+          "стол"
+        ]
+      },
+      {
+        "frame": "frame_000001.jpg",
+        "objects": [
+          "car",
+          "person"
+        ]
+      },
+      {
+        "frame": "frame_000002.jpg",
+        "objects": [
+          "car",
+          "person"
+        ]
+      },
+      {
+        "frame": "frame_000003.jpg",
+        "objects": [
+          "car",
+          "person"
+        ]
+      },
+      {
+        "frame": "frame_000004.jpg",
+        "objects": [
+          "car",
+          "person"
+        ]
+      },
+      {
+        "frame": "frame_000005.jpg",
+        "objects": [
+          "car",
+          "person"
+        ]
+      },
+      {
+        "frame": "frame_000006.jpg",
+        "objects": [
+          "car",
+          "person",
+          "белое платье",
+          "женщина",
+          "лицо",
+          "оценка",
+          "помада",
+          "сцена"
+        ]
+      },
+      {
+        "frame": "frame_000007.jpg",
+        "objects": [
+          "car",
+          "person",
+          "глаза",
+          "лицо",
+          "объектив",
+          "оценка уверенности",
+          "руки",
+          "улыбка"
+        ]
+      },
+      {
+        "frame": "frame_000008.jpg",
+        "objects": [
+          "car",
+          "person",
+          "оценка"
+        ]
+      },
+      {
+        "frame": "frame_000009.jpg",
+        "objects": [
+          "car",
+          "person"
+        ]
+      },
+      {
+        "frame": "frame_000010.jpg",
+        "objects": [
+          "car",
+          "person"
+        ]
+      },
+      {
+        "frame": "frame_000011.jpg",
+        "objects": [
+          "car",
+          "person"
+        ]
+      },
+      {
+        "frame": "frame_000012.jpg",
+        "objects": [
+          "car",
+          "person"
+        ]
+      },
+      {
+        "frame": "frame_000013.jpg",
+        "objects": [
+          "car",
+          "person",
+          "глаза",
+          "итого",
+          "лицо",
+          "любовь",
+          "сияние",
+          "улыбка"
+        ]
+      },
+      {
+        "frame": "frame_000014.jpg",
+        "objects": [
+          "car",
+          "person",
+          "белое платье",
+          "лицо",
+          "молодая женщина",
+          "помада и тени для век"
+        ]
+      },
+      {
+        "frame": "frame_000015.jpg",
+        "objects": [
+          "car",
+          "person"
+        ]
+      },
+      {
+        "frame": "frame_000016.jpg",
+        "objects": [
+          "car",
+          "person",
+          "зубы",
+          "итого",
+          "лицо",
+          "рот"
+        ]
+      },
+      {
+        "frame": "frame_000017.jpg",
+        "objects": [
+          "car",
+          "person"
+        ]
+      },
+      {
+        "frame": "frame_000018.jpg",
+        "objects": [
+          "car",
+          "person"
+        ]
+      },
+      {
+        "frame": "frame_000019.jpg",
+        "objects": [
+          "car",
+          "person"
+        ]
+      },
+      {
+        "frame": "frame_000020.jpg",
+        "objects": [
+          "car",
+          "person"
+        ]
+      },
+      {
+        "frame": "frame_000021.jpg",
+        "objects": [
+          "car",
+          "person"
+        ]
+      },
+      {
+        "frame": "frame_000022.jpg",
+        "objects": [
+          "car",
+          "person"
+        ]
+      },
+      {
+        "frame": "frame_000023.jpg",
+        "objects": [
+          "car",
+          "person"
+        ]
+      },
+      {
+        "frame": "frame_000024.jpg",
+        "objects": [
+          "car",
+          "person",
+          "оценки уверенности"
+        ]
+      },
+      {
+        "frame": "frame_000025.jpg",
+        "objects": [
+          "car",
+          "person"
+        ]
+      },
+      {
+        "frame": "frame_000026.jpg",
+        "objects": [
+          "car",
+          "person",
+          "итоговая оценка"
+        ]
+      },
+      {
+        "frame": "frame_000027.jpg",
+        "objects": [
+          "car",
+          "person"
+        ]
+      },
+      {
+        "frame": "frame_000028.jpg",
+        "objects": [
+          "car",
+          "person"
+        ]
+      },
+      {
+        "frame": "frame_000029.jpg",
+        "objects": [
+          "car",
+          "person"
+        ]
+      },
+      {
+        "frame": "frame_000030.jpg",
+        "objects": [
+          "car",
+          "person"
+        ]
+      },
+      {
+        "frame": "frame_000031.jpg",
+        "objects": [
+          "car",
+          "person",
+          "волосы",
+          "другие люди",
+          "женщина",
+          "макияж",
+          "нос",
+          "румяна"
+        ]
+      },
+      {
+        "frame": "frame_000032.jpg",
+        "objects": [
+          "car",
+          "person"
+        ]
+      },
+      {
+        "frame": "frame_000033.jpg",
+        "objects": [
+          "car",
+          "person"
+        ]
+      },
+      {
+        "frame": "frame_000034.jpg",
+        "objects": [
+          "car",
+          "person"
+        ]
+      },
+      {
+        "frame": "frame_000035.jpg",
+        "objects": [
+          "car",
+          "person"
+        ]
+      },
+      {
+        "frame": "frame_000036.jpg",
+        "objects": [
+          "car",
+          "person",
+          "оценки уверенности"
+        ]
+      },
+      {
+        "frame": "frame_000037.jpg",
+        "objects": [
+          "car",
+          "person"
+        ]
+      },
+      {
+        "frame": "frame_000038.jpg",
+        "objects": [
+          "car",
+          "person",
+          "оценка уверенности"
+        ]
+      },
+      {
+        "frame": "frame_000039.jpg",
+        "objects": [
+          "car",
+          "person"
+        ]
+      },
+      {
+        "frame": "frame_000040.jpg",
+        "objects": [
+          "car",
+          "person"
+        ]
+      },
+      {
+        "frame": "frame_000041.jpg",
+        "objects": [
+          "car",
+          "person"
+        ]
+      },
+      {
+        "frame": "frame_000042.jpg",
+        "objects": [
+          "car",
+          "person"
+        ]
+      }
+    ]
+  },
+  "comparison": {
+    "common_objects": [
+      {
+        "class": "person",
+        "frames": [
+          "frame_000001.jpg",
+          "frame_000002.jpg",
+          "frame_000003.jpg",
+          "frame_000004.jpg",
+          "frame_000005.jpg",
+          "frame_000006.jpg",
+          "frame_000007.jpg",
+          "frame_000008.jpg",
+          "frame_000009.jpg",
+          "frame_000010.jpg",
+          "frame_000011.jpg",
+          "frame_000012.jpg",
+          "frame_000013.jpg",
+          "frame_000014.jpg",
+          "frame_000015.jpg",
+          "frame_000016.jpg",
+          "frame_000017.jpg",
+          "frame_000018.jpg",
+          "frame_000019.jpg",
+          "frame_000020.jpg",
+          "frame_000021.jpg",
+          "frame_000022.jpg",
+          "frame_000023.jpg",
+          "frame_000024.jpg",
+          "frame_000025.jpg",
+          "frame_000026.jpg",
+          "frame_000027.jpg",
+          "frame_000028.jpg",
+          "frame_000029.jpg",
+          "frame_000030.jpg",
+          "frame_000031.jpg",
+          "frame_000032.jpg",
+          "frame_000033.jpg",
+          "frame_000034.jpg",
+          "frame_000035.jpg",
+          "frame_000036.jpg",
+          "frame_000037.jpg",
+          "frame_000038.jpg",
+          "frame_000039.jpg",
+          "frame_000040.jpg",
+          "frame_000041.jpg",
+          "frame_000042.jpg"
+        ]
+      }
+    ],
+    "unique_per_model": {
+      "YOLOv11": [],
+      "Faster R-CNN": [],
+      "Qwen+YOLO": [
+        {
+          "class": "людей",
+          "frames": [
+            "frame_000000.jpg"
+          ]
+        },
+        {
+          "class": "камера",
+          "frames": [
+            "frame_000000.jpg"
+          ]
+        },
+        {
+          "class": "car",
+          "frames": [
+            "frame_000000.jpg",
+            "frame_000001.jpg",
+            "frame_000002.jpg",
+            "frame_000003.jpg",
+            "frame_000004.jpg",
+            "frame_000005.jpg",
+            "frame_000006.jpg",
+            "frame_000007.jpg",
+            "frame_000008.jpg",
+            "frame_000009.jpg",
+            "frame_000010.jpg",
+            "frame_000011.jpg",
+            "frame_000012.jpg",
+            "frame_000013.jpg",
+            "frame_000014.jpg",
+            "frame_000015.jpg",
+            "frame_000016.jpg",
+            "frame_000017.jpg",
+            "frame_000018.jpg",
+            "frame_000019.jpg",
+            "frame_000020.jpg",
+            "frame_000021.jpg",
+            "frame_000022.jpg",
+            "frame_000023.jpg",
+            "frame_000024.jpg",
+            "frame_000025.jpg",
+            "frame_000026.jpg",
+            "frame_000027.jpg",
+            "frame_000028.jpg",
+            "frame_000029.jpg",
+            "frame_000030.jpg",
+            "frame_000031.jpg",
+            "frame_000032.jpg",
+            "frame_000033.jpg",
+            "frame_000034.jpg",
+            "frame_000035.jpg",
+            "frame_000036.jpg",
+            "frame_000037.jpg",
+            "frame_000038.jpg",
+            "frame_000039.jpg",
+            "frame_000040.jpg",
+            "frame_000041.jpg",
+            "frame_000042.jpg"
+          ]
+        },
+        {
+          "class": "стол",
+          "frames": [
+            "frame_000000.jpg"
+          ]
+        },
+        {
+          "class": "лицо",
+          "frames": [
+            "frame_000006.jpg",
+            "frame_000007.jpg",
+            "frame_000013.jpg",
+            "frame_000014.jpg",
+            "frame_000016.jpg"
+          ]
+        },
+        {
+          "class": "женщина",
+          "frames": [
+            "frame_000006.jpg",
+            "frame_000031.jpg"
+          ]
+        },
+        {
+          "class": "белое платье",
+          "frames": [
+            "frame_000006.jpg",
+            "frame_000014.jpg"
+          ]
+        },
+        {
+          "class": "оценка",
+          "frames": [
+            "frame_000006.jpg",
+            "frame_000008.jpg"
+          ]
+        },
+        {
+          "class": "помада",
+          "frames": [
+            "frame_000006.jpg"
+          ]
+        },
+        {
+          "class": "сцена",
+          "frames": [
+            "frame_000006.jpg"
+          ]
+        },
+        {
+          "class": "руки",
+          "frames": [
+            "frame_000007.jpg"
+          ]
+        },
+        {
+          "class": "объектив",
+          "frames": [
+            "frame_000007.jpg"
+          ]
+        },
+        {
+          "class": "улыбка",
+          "frames": [
+            "frame_000007.jpg",
+            "frame_000013.jpg"
+          ]
+        },
+        {
+          "class": "глаза",
+          "frames": [
+            "frame_000007.jpg",
+            "frame_000013.jpg"
+          ]
+        },
+        {
+          "class": "оценка уверенности",
+          "frames": [
+            "frame_000007.jpg",
+            "frame_000038.jpg"
+          ]
+        },
+        {
+          "class": "итого",
+          "frames": [
+            "frame_000013.jpg",
+            "frame_000016.jpg"
+          ]
+        },
+        {
+          "class": "сияние",
+          "frames": [
+            "frame_000013.jpg"
+          ]
+        },
+        {
+          "class": "любовь",
+          "frames": [
+            "frame_000013.jpg"
+          ]
+        },
+        {
+          "class": "помада и тени для век",
+          "frames": [
+            "frame_000014.jpg"
+          ]
+        },
+        {
+          "class": "молодая женщина",
+          "frames": [
+            "frame_000014.jpg"
+          ]
+        },
+        {
+          "class": "зубы",
+          "frames": [
+            "frame_000016.jpg"
+          ]
+        },
+        {
+          "class": "рот",
+          "frames": [
+            "frame_000016.jpg"
+          ]
+        },
+        {
+          "class": "оценки уверенности",
+          "frames": [
+            "frame_000024.jpg",
+            "frame_000036.jpg"
+          ]
+        },
+        {
+          "class": "итоговая оценка",
+          "frames": [
+            "frame_000026.jpg"
+          ]
+        },
+        {
+          "class": "макияж",
+          "frames": [
+            "frame_000031.jpg"
+          ]
+        },
+        {
+          "class": "нос",
+          "frames": [
+            "frame_000031.jpg"
+          ]
+        },
+        {
+          "class": "румяна",
+          "frames": [
+            "frame_000031.jpg"
+          ]
+        },
+        {
+          "class": "другие люди",
+          "frames": [
+            "frame_000031.jpg"
+          ]
+        },
+        {
+          "class": "волосы",
+          "frames": [
+            "frame_000031.jpg"
+          ]
+        }
+      ]
+    },
+    "overlap_percent": 41.86
+  },
+  "per_frame_statistics": [
+    {
+      "frame": "frame_000000.jpg",
+      "models_detected": {
+        "Qwen+YOLO": [
+          "людей",
+          "камера",
+          "car",
+          "стол"
+        ]
+      },
+      "intersection": [],
+      "union": [
+        "людей",
+        "камера",
+        "car",
+        "стол"
+      ],
+      "overlap_percent": 0.0
+    },
+    {
+      "frame": "frame_000001.jpg",
+      "models_detected": {
+        "YOLOv11": [
+          "person"
+        ],
+        "Faster R-CNN": [
+          "person"
+        ],
+        "Qwen+YOLO": [
+          "person",
+          "car"
+        ]
+      },
+      "intersection": [
+        "person"
+      ],
+      "union": [
+        "person",
+        "car"
+      ],
+      "overlap_percent": 50.0
+    },
+    {
+      "frame": "frame_000002.jpg",
+      "models_detected": {
+        "YOLOv11": [
+          "person"
+        ],
+        "Faster R-CNN": [
+          "person"
+        ],
+        "Qwen+YOLO": [
+          "person",
+          "car"
+        ]
+      },
+      "intersection": [
+        "person"
+      ],
+      "union": [
+        "person",
+        "car"
+      ],
+      "overlap_percent": 50.0
+    },
+    {
+      "frame": "frame_000003.jpg",
+      "models_detected": {
+        "YOLOv11": [
+          "person"
+        ],
+        "Faster R-CNN": [
+          "person"
+        ],
+        "Qwen+YOLO": [
+          "person",
+          "car"
+        ]
+      },
+      "intersection": [
+        "person"
+      ],
+      "union": [
+        "person",
+        "car"
+      ],
+      "overlap_percent": 50.0
+    },
+    {
+      "frame": "frame_000004.jpg",
+      "models_detected": {
+        "YOLOv11": [
+          "person"
+        ],
+        "Faster R-CNN": [
+          "person"
+        ],
+        "Qwen+YOLO": [
+          "person",
+          "car"
+        ]
+      },
+      "intersection": [
+        "person"
+      ],
+      "union": [
+        "person",
+        "car"
+      ],
+      "overlap_percent": 50.0
+    },
+    {
+      "frame": "frame_000005.jpg",
+      "models_detected": {
+        "YOLOv11": [
+          "person"
+        ],
+        "Faster R-CNN": [
+          "person"
+        ],
+        "Qwen+YOLO": [
+          "person",
+          "car"
+        ]
+      },
+      "intersection": [
+        "person"
+      ],
+      "union": [
+        "person",
+        "car"
+      ],
+      "overlap_percent": 50.0
+    },
+    {
+      "frame": "frame_000006.jpg",
+      "models_detected": {
+        "YOLOv11": [
+          "person"
+        ],
+        "Faster R-CNN": [
+          "person"
+        ],
+        "Qwen+YOLO": [
+          "лицо",
+          "женщина",
+          "белое платье",
+          "person",
+          "оценка",
+          "car",
+          "помада",
+          "сцена"
+        ]
+      },
+      "intersection": [
+        "person"
+      ],
+      "union": [
+        "лицо",
+        "женщина",
+        "белое платье",
+        "person",
+        "оценка",
+        "car",
+        "помада",
+        "сцена"
+      ],
+      "overlap_percent": 12.5
+    },
+    {
+      "frame": "frame_000007.jpg",
+      "models_detected": {
+        "YOLOv11": [
+          "person"
+        ],
+        "Faster R-CNN": [
+          "person"
+        ],
+        "Qwen+YOLO": [
+          "руки",
+          "объектив",
+          "улыбка",
+          "лицо",
+          "глаза",
+          "оценка уверенности",
+          "person",
+          "car"
+        ]
+      },
+      "intersection": [
+        "person"
+      ],
+      "union": [
+        "руки",
+        "объектив",
+        "улыбка",
+        "лицо",
+        "глаза",
+        "оценка уверенности",
+        "person",
+        "car"
+      ],
+      "overlap_percent": 12.5
+    },
+    {
+      "frame": "frame_000008.jpg",
+      "models_detected": {
+        "YOLOv11": [
+          "person"
+        ],
+        "Faster R-CNN": [
+          "person"
+        ],
+        "Qwen+YOLO": [
+          "person",
+          "car",
+          "оценка"
+        ]
+      },
+      "intersection": [
+        "person"
+      ],
+      "union": [
+        "person",
+        "car",
+        "оценка"
+      ],
+      "overlap_percent": 33.33
+    },
+    {
+      "frame": "frame_000009.jpg",
+      "models_detected": {
+        "YOLOv11": [
+          "person"
+        ],
+        "Faster R-CNN": [
+          "person"
+        ],
+        "Qwen+YOLO": [
+          "person",
+          "car"
+        ]
+      },
+      "intersection": [
+        "person"
+      ],
+      "union": [
+        "person",
+        "car"
+      ],
+      "overlap_percent": 50.0
+    },
+    {
+      "frame": "frame_000010.jpg",
+      "models_detected": {
+        "YOLOv11": [
+          "person"
+        ],
+        "Faster R-CNN": [
+          "person"
+        ],
+        "Qwen+YOLO": [
+          "person",
+          "car"
+        ]
+      },
+      "intersection": [
+        "person"
+      ],
+      "union": [
+        "person",
+        "car"
+      ],
+      "overlap_percent": 50.0
+    },
+    {
+      "frame": "frame_000011.jpg",
+      "models_detected": {
+        "YOLOv11": [
+          "person"
+        ],
+        "Faster R-CNN": [
+          "person"
+        ],
+        "Qwen+YOLO": [
+          "person",
+          "car"
+        ]
+      },
+      "intersection": [
+        "person"
+      ],
+      "union": [
+        "person",
+        "car"
+      ],
+      "overlap_percent": 50.0
+    },
+    {
+      "frame": "frame_000012.jpg",
+      "models_detected": {
+        "YOLOv11": [
+          "person"
+        ],
+        "Faster R-CNN": [
+          "person"
+        ],
+        "Qwen+YOLO": [
+          "person",
+          "car"
+        ]
+      },
+      "intersection": [
+        "person"
+      ],
+      "union": [
+        "person",
+        "car"
+      ],
+      "overlap_percent": 50.0
+    },
+    {
+      "frame": "frame_000013.jpg",
+      "models_detected": {
+        "YOLOv11": [
+          "person"
+        ],
+        "Faster R-CNN": [
+          "person"
+        ],
+        "Qwen+YOLO": [
+          "улыбка",
+          "итого",
+          "лицо",
+          "сияние",
+          "глаза",
+          "любовь",
+          "person",
+          "car"
+        ]
+      },
+      "intersection": [
+        "person"
+      ],
+      "union": [
+        "улыбка",
+        "итого",
+        "лицо",
+        "сияние",
+        "глаза",
+        "любовь",
+        "person",
+        "car"
+      ],
+      "overlap_percent": 12.5
+    },
+    {
+      "frame": "frame_000014.jpg",
+      "models_detected": {
+        "YOLOv11": [
+          "person"
+        ],
+        "Faster R-CNN": [
+          "person"
+        ],
+        "Qwen+YOLO": [
+          "лицо",
+          "помада и тени для век",
+          "молодая женщина",
+          "белое платье",
+          "person",
+          "car"
+        ]
+      },
+      "intersection": [
+        "person"
+      ],
+      "union": [
+        "белое платье",
+        "person",
+        "лицо",
+        "помада и тени для век",
+        "car",
+        "молодая женщина"
+      ],
+      "overlap_percent": 16.67
+    },
+    {
+      "frame": "frame_000015.jpg",
+      "models_detected": {
+        "YOLOv11": [
+          "person"
+        ],
+        "Faster R-CNN": [
+          "person"
+        ],
+        "Qwen+YOLO": [
+          "person",
+          "car"
+        ]
+      },
+      "intersection": [
+        "person"
+      ],
+      "union": [
+        "person",
+        "car"
+      ],
+      "overlap_percent": 50.0
+    },
+    {
+      "frame": "frame_000016.jpg",
+      "models_detected": {
+        "YOLOv11": [
+          "person"
+        ],
+        "Faster R-CNN": [
+          "person"
+        ],
+        "Qwen+YOLO": [
+          "итого",
+          "зубы",
+          "лицо",
+          "рот",
+          "person",
+          "car"
+        ]
+      },
+      "intersection": [
+        "person"
+      ],
+      "union": [
+        "person",
+        "итого",
+        "зубы",
+        "лицо",
+        "car",
+        "рот"
+      ],
+      "overlap_percent": 16.67
+    },
+    {
+      "frame": "frame_000017.jpg",
+      "models_detected": {
+        "YOLOv11": [
+          "person"
+        ],
+        "Faster R-CNN": [
+          "person"
+        ],
+        "Qwen+YOLO": [
+          "person",
+          "car"
+        ]
+      },
+      "intersection": [
+        "person"
+      ],
+      "union": [
+        "person",
+        "car"
+      ],
+      "overlap_percent": 50.0
+    },
+    {
+      "frame": "frame_000018.jpg",
+      "models_detected": {
+        "YOLOv11": [
+          "person"
+        ],
+        "Faster R-CNN": [
+          "person"
+        ],
+        "Qwen+YOLO": [
+          "person",
+          "car"
+        ]
+      },
+      "intersection": [
+        "person"
+      ],
+      "union": [
+        "person",
+        "car"
+      ],
+      "overlap_percent": 50.0
+    },
+    {
+      "frame": "frame_000019.jpg",
+      "models_detected": {
+        "YOLOv11": [
+          "person"
+        ],
+        "Faster R-CNN": [
+          "person"
+        ],
+        "Qwen+YOLO": [
+          "person",
+          "car"
+        ]
+      },
+      "intersection": [
+        "person"
+      ],
+      "union": [
+        "person",
+        "car"
+      ],
+      "overlap_percent": 50.0
+    },
+    {
+      "frame": "frame_000020.jpg",
+      "models_detected": {
+        "YOLOv11": [
+          "person"
+        ],
+        "Faster R-CNN": [
+          "person"
+        ],
+        "Qwen+YOLO": [
+          "person",
+          "car"
+        ]
+      },
+      "intersection": [
+        "person"
+      ],
+      "union": [
+        "person",
+        "car"
+      ],
+      "overlap_percent": 50.0
+    },
+    {
+      "frame": "frame_000021.jpg",
+      "models_detected": {
+        "YOLOv11": [
+          "person"
+        ],
+        "Faster R-CNN": [
+          "person"
+        ],
+        "Qwen+YOLO": [
+          "person",
+          "car"
+        ]
+      },
+      "intersection": [
+        "person"
+      ],
+      "union": [
+        "person",
+        "car"
+      ],
+      "overlap_percent": 50.0
+    },
+    {
+      "frame": "frame_000022.jpg",
+      "models_detected": {
+        "YOLOv11": [
+          "person"
+        ],
+        "Faster R-CNN": [
+          "person"
+        ],
+        "Qwen+YOLO": [
+          "person",
+          "car"
+        ]
+      },
+      "intersection": [
+        "person"
+      ],
+      "union": [
+        "person",
+        "car"
+      ],
+      "overlap_percent": 50.0
+    },
+    {
+      "frame": "frame_000023.jpg",
+      "models_detected": {
+        "YOLOv11": [
+          "person"
+        ],
+        "Faster R-CNN": [
+          "person"
+        ],
+        "Qwen+YOLO": [
+          "person",
+          "car"
+        ]
+      },
+      "intersection": [
+        "person"
+      ],
+      "union": [
+        "person",
+        "car"
+      ],
+      "overlap_percent": 50.0
+    },
+    {
+      "frame": "frame_000024.jpg",
+      "models_detected": {
+        "YOLOv11": [
+          "person"
+        ],
+        "Faster R-CNN": [
+          "person"
+        ],
+        "Qwen+YOLO": [
+          "car",
+          "person",
+          "оценки уверенности"
+        ]
+      },
+      "intersection": [
+        "person"
+      ],
+      "union": [
+        "person",
+        "оценки уверенности",
+        "car"
+      ],
+      "overlap_percent": 33.33
+    },
+    {
+      "frame": "frame_000025.jpg",
+      "models_detected": {
+        "YOLOv11": [
+          "person"
+        ],
+        "Faster R-CNN": [
+          "person"
+        ],
+        "Qwen+YOLO": [
+          "person",
+          "car"
+        ]
+      },
+      "intersection": [
+        "person"
+      ],
+      "union": [
+        "person",
+        "car"
+      ],
+      "overlap_percent": 50.0
+    },
+    {
+      "frame": "frame_000026.jpg",
+      "models_detected": {
+        "YOLOv11": [
+          "person"
+        ],
+        "Faster R-CNN": [
+          "person"
+        ],
+        "Qwen+YOLO": [
+          "итоговая оценка",
+          "person",
+          "car"
+        ]
+      },
+      "intersection": [
+        "person"
+      ],
+      "union": [
+        "итоговая оценка",
+        "person",
+        "car"
+      ],
+      "overlap_percent": 33.33
+    },
+    {
+      "frame": "frame_000027.jpg",
+      "models_detected": {
+        "YOLOv11": [
+          "person"
+        ],
+        "Faster R-CNN": [
+          "person"
+        ],
+        "Qwen+YOLO": [
+          "person",
+          "car"
+        ]
+      },
+      "intersection": [
+        "person"
+      ],
+      "union": [
+        "person",
+        "car"
+      ],
+      "overlap_percent": 50.0
+    },
+    {
+      "frame": "frame_000028.jpg",
+      "models_detected": {
+        "YOLOv11": [
+          "person"
+        ],
+        "Faster R-CNN": [
+          "person"
+        ],
+        "Qwen+YOLO": [
+          "person",
+          "car"
+        ]
+      },
+      "intersection": [
+        "person"
+      ],
+      "union": [
+        "person",
+        "car"
+      ],
+      "overlap_percent": 50.0
+    },
+    {
+      "frame": "frame_000029.jpg",
+      "models_detected": {
+        "YOLOv11": [
+          "person"
+        ],
+        "Faster R-CNN": [
+          "person"
+        ],
+        "Qwen+YOLO": [
+          "person",
+          "car"
+        ]
+      },
+      "intersection": [
+        "person"
+      ],
+      "union": [
+        "person",
+        "car"
+      ],
+      "overlap_percent": 50.0
+    },
+    {
+      "frame": "frame_000030.jpg",
+      "models_detected": {
+        "YOLOv11": [
+          "person"
+        ],
+        "Faster R-CNN": [
+          "person"
+        ],
+        "Qwen+YOLO": [
+          "person",
+          "car"
+        ]
+      },
+      "intersection": [
+        "person"
+      ],
+      "union": [
+        "person",
+        "car"
+      ],
+      "overlap_percent": 50.0
+    },
+    {
+      "frame": "frame_000031.jpg",
+      "models_detected": {
+        "YOLOv11": [
+          "person"
+        ],
+        "Faster R-CNN": [
+          "person"
+        ],
+        "Qwen+YOLO": [
+          "женщина",
+          "макияж",
+          "person",
+          "нос",
+          "румяна",
+          "car",
+          "другие люди",
+          "волосы"
+        ]
+      },
+      "intersection": [
+        "person"
+      ],
+      "union": [
+        "женщина",
+        "макияж",
+        "person",
+        "нос",
+        "румяна",
+        "car",
+        "другие люди",
+        "волосы"
+      ],
+      "overlap_percent": 12.5
+    },
+    {
+      "frame": "frame_000032.jpg",
+      "models_detected": {
+        "YOLOv11": [
+          "person"
+        ],
+        "Faster R-CNN": [
+          "person"
+        ],
+        "Qwen+YOLO": [
+          "person",
+          "car"
+        ]
+      },
+      "intersection": [
+        "person"
+      ],
+      "union": [
+        "person",
+        "car"
+      ],
+      "overlap_percent": 50.0
+    },
+    {
+      "frame": "frame_000033.jpg",
+      "models_detected": {
+        "YOLOv11": [
+          "person"
+        ],
+        "Faster R-CNN": [
+          "person"
+        ],
+        "Qwen+YOLO": [
+          "person",
+          "car"
+        ]
+      },
+      "intersection": [
+        "person"
+      ],
+      "union": [
+        "person",
+        "car"
+      ],
+      "overlap_percent": 50.0
+    },
+    {
+      "frame": "frame_000034.jpg",
+      "models_detected": {
+        "YOLOv11": [
+          "person"
+        ],
+        "Faster R-CNN": [
+          "person"
+        ],
+        "Qwen+YOLO": [
+          "person",
+          "car"
+        ]
+      },
+      "intersection": [
+        "person"
+      ],
+      "union": [
+        "person",
+        "car"
+      ],
+      "overlap_percent": 50.0
+    },
+    {
+      "frame": "frame_000035.jpg",
+      "models_detected": {
+        "YOLOv11": [
+          "person"
+        ],
+        "Faster R-CNN": [
+          "person"
+        ],
+        "Qwen+YOLO": [
+          "person",
+          "car"
+        ]
+      },
+      "intersection": [
+        "person"
+      ],
+      "union": [
+        "person",
+        "car"
+      ],
+      "overlap_percent": 50.0
+    },
+    {
+      "frame": "frame_000036.jpg",
+      "models_detected": {
+        "YOLOv11": [
+          "person"
+        ],
+        "Faster R-CNN": [
+          "person"
+        ],
+        "Qwen+YOLO": [
+          "car",
+          "person",
+          "оценки уверенности"
+        ]
+      },
+      "intersection": [
+        "person"
+      ],
+      "union": [
+        "person",
+        "оценки уверенности",
+        "car"
+      ],
+      "overlap_percent": 33.33
+    },
+    {
+      "frame": "frame_000037.jpg",
+      "models_detected": {
+        "YOLOv11": [
+          "person"
+        ],
+        "Faster R-CNN": [
+          "person"
+        ],
+        "Qwen+YOLO": [
+          "person",
+          "car"
+        ]
+      },
+      "intersection": [
+        "person"
+      ],
+      "union": [
+        "person",
+        "car"
+      ],
+      "overlap_percent": 50.0
+    },
+    {
+      "frame": "frame_000038.jpg",
+      "models_detected": {
+        "YOLOv11": [
+          "person"
+        ],
+        "Faster R-CNN": [
+          "person"
+        ],
+        "Qwen+YOLO": [
+          "person",
+          "car",
+          "оценка уверенности"
+        ]
+      },
+      "intersection": [
+        "person"
+      ],
+      "union": [
+        "person",
+        "car",
+        "оценка уверенности"
+      ],
+      "overlap_percent": 33.33
+    },
+    {
+      "frame": "frame_000039.jpg",
+      "models_detected": {
+        "YOLOv11": [
+          "person"
+        ],
+        "Faster R-CNN": [
+          "person"
+        ],
+        "Qwen+YOLO": [
+          "person",
+          "car"
+        ]
+      },
+      "intersection": [
+        "person"
+      ],
+      "union": [
+        "person",
+        "car"
+      ],
+      "overlap_percent": 50.0
+    },
+    {
+      "frame": "frame_000040.jpg",
+      "models_detected": {
+        "YOLOv11": [
+          "person"
+        ],
+        "Faster R-CNN": [
+          "person"
+        ],
+        "Qwen+YOLO": [
+          "person",
+          "car"
+        ]
+      },
+      "intersection": [
+        "person"
+      ],
+      "union": [
+        "person",
+        "car"
+      ],
+      "overlap_percent": 50.0
+    },
+    {
+      "frame": "frame_000041.jpg",
+      "models_detected": {
+        "YOLOv11": [
+          "person"
+        ],
+        "Faster R-CNN": [
+          "person"
+        ],
+        "Qwen+YOLO": [
+          "person",
+          "car"
+        ]
+      },
+      "intersection": [
+        "person"
+      ],
+      "union": [
+        "person",
+        "car"
+      ],
+      "overlap_percent": 50.0
+    },
+    {
+      "frame": "frame_000042.jpg",
+      "models_detected": {
+        "YOLOv11": [
+          "person"
+        ],
+        "Faster R-CNN": [
+          "person"
+        ],
+        "Qwen+YOLO": [
+          "person",
+          "car"
+        ]
+      },
+      "intersection": [
+        "person"
+      ],
+      "union": [
+        "person",
+        "car"
+      ],
+      "overlap_percent": 50.0
+    }
+  ]
+}

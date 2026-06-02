@@ -1,0 +1,32 @@
+{
+  "spm2": {
+    "duration_sec": 100.93,
+    "fps": 23.98,
+    "total_frames": 2420,
+    "resolution": "640x360"
+  },
+  "tpoh": {
+    "duration_sec": 178.1,
+    "fps": 30.0,
+    "total_frames": 5343,
+    "resolution": "640x360"
+  },
+  "cwbf": {
+    "duration_sec": 666.96,
+    "fps": 25.0,
+    "total_frames": 16674,
+    "resolution": "640x360"
+  },
+  "tososwatsd": {
+    "duration_sec": 870.37,
+    "fps": 30.0,
+    "total_frames": 26111,
+    "resolution": "640x360"
+  },
+  "short": {
+    "duration_sec": 21.13,
+    "fps": 30.0,
+    "total_frames": 634,
+    "resolution": "360x640"
+  }
+}
